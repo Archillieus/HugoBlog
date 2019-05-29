@@ -1,4 +1,4 @@
-baseURL                   = "http://a-code-lover.github.io/"
+baseURL                   = "https://a-code-lover.github.io/"
 builddrafts                = false
 languageCode               = "zn-Hans"
 canonifyurls               = true
@@ -62,7 +62,7 @@ pygmentsuseclasses         = true
   noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
 
   # slides
-  slidesDirPath            = "themes/AllinOne/static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPath            = "static/img/header-slides"    # path to image in local dir (path for hugo)
   slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
 
   # highlighting 
