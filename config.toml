@@ -40,8 +40,14 @@ pygmentsuseclasses         = true
     url                    = "moment/" 
 
   [[menu.main]]
-    name                   = "About"
+    name                   = "Motto"
     weight                 = -100
+    identifier             = "motto"
+    url                    = "motto/" 
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -90
     identifier             = "about"
     url                    = "about/"  
 

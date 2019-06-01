@@ -1,11 +1,8 @@
 [[series]]
-name = "观后repo"
-img = "images/blog/2018-08/test3.jpg"
-summary = "This is the place I write reviews"
+name = "c++从入门到入门"
+img = "images/blog/2019-05/古镇.jpg"
+summary = "学习C++中爬过的坑，永远都在入门！"
 
-[[series]]
-name = "blog养成记"
-img = "images/blog/2018-08/test5.jpg"
-summary = "How I build up my personal website"
+
 
 
