@@ -3,6 +3,7 @@ name = "c++从入门到入门"
 img = "images/blog/2019-05/古镇.jpg"
 summary = "学习C++中爬过的坑，永远都在入门！"
 
-
-
-
+[[series]]
+name = "广告那些事"
+img = "images/series/广告.jpg"
+summary = "听说广告行业很赚钱，好像跟我有什么关系一样！"

@@ -8,7 +8,7 @@ publishdir                 = "public"
 enableEmoji                = true
 hasCJKLanguage             = true
 summaryLength              = 200
-Paginate                   = 3
+Paginate                   = 8
 
 theme                      = "AllinOne"
 title                      = "Archillieus"
@@ -61,7 +61,7 @@ pygmentsuseclasses         = true
   welcome_head             = "Welcome here!"
   welcome_word             = "~ No Day But Today ~"
 
-  latestpostscount         = 5                             # how many posts to display on the home page
+  latestpostscount         = 8                             # how many posts to display on the home page
   bloggroupby              = 'month'
   dateform                 = "Jan 2, 2006"
   dateformfull             = "2006-01-02  Monday  15:04:05"
