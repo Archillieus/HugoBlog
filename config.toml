@@ -58,10 +58,10 @@ pygmentsuseclasses         = true
   avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Archillieus"
   description              = ["Be myself.", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
-  welcome_head             = "Welcome here!"
-  welcome_word             = "~ No Day But Today ~"
+  welcome_head             = ""
+  welcome_word             = "~ Up! Up! Up! ~"
 
-  latestpostscount         = 8                             # how many posts to display on the home page
+  latestpostscount         = 20                             # how many posts to display on the home page
   bloggroupby              = 'month'
   dateform                 = "Jan 2, 2006"
   dateformfull             = "2006-01-02  Monday  15:04:05"
